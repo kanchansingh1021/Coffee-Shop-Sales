@@ -71,7 +71,7 @@ The Excel dashboard was designed to provide real-time filtering and KPI tracking
 ## 🔗 Live Project Post
 
 Check out the full breakdown and visuals here:  
-👉 [LinkedIn Post](https://www.linkedin.com/in/kanchansinghofficial)
+👉 [LinkedIn Post](https://www.linkedin.com/posts/kanchansinghofficial_coffee-shop-sales-analysis-activity-7342913591198507008-E-6T?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKQxJgBRFp633bJ0lfnA4VWw45AVJMKdSI)
 
 ---
 
